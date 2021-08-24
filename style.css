@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,200;1,300&family=Ubuntu:ital,wght@0,400;0,500;1,500;1,700&display=swap');
+.fa-graduation-cap{
+    color: indigo;
+    font-size: 30px;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 600;
+}
