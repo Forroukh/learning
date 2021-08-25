@@ -101,23 +101,9 @@
         margin-top: 17px;
     }
     /* video  */
-    .video-container{
-      background-color: rgb(208, 213, 235);
-      margin: 10px;
-      display: flex;
-      justify-content: center;
-      padding: 5px;
-    }
     
-    @media (max-width:1000px){
-      .video-container{
-
-        display:block;
-        background-color: rgb(122, 111, 165);
-
-      }
-    }
     
+  
     /* footer design */
 .site-footer
 {
