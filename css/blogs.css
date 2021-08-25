@@ -101,8 +101,16 @@
         margin-top: 17px;
     }
     /* video  */
-    
-    
+    .container {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin: 30px;
+    }
+
+    .video{
+      margin: 20px;
+    }
   
     /* footer design */
 .site-footer
