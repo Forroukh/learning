@@ -31,18 +31,8 @@
 
       /* main part */
     
-.chapter-name{
-    height: auto;
-    display: flex;
-    flex-wrap: wrap;
-   justify-content: space-between;
-    
-    
-}
 
-#introduction{
-
-}
-div{
-    transition: ;
+p, h2, h3, h6{ 
+    margin: 5px;
+    padding: 5px;
 }
