@@ -3,7 +3,9 @@
     color: indigo;
     font-size: 30px;
 }
-
+.main{
+  margin-top: 70px;
+}
 .nav-link{
     color: rgb(0, 0, 0);
     font-size: 18px;
